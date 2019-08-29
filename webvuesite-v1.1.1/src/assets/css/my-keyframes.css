@@ -1,0 +1,73 @@
+@-webkit-keyframes f4-icon-change /* Safari 与 Chrome */
+{
+  from {top: 34%;}
+  to {top:20%;}
+}
+@-webkit-keyframes f4-line-change /* Safari 与 Chrome */
+{
+  from {top: 52%;}
+  to {top:40%;}
+}
+@-webkit-keyframes f4-content-change /* Safari 与 Chrome */
+{
+  from{top:110%}
+  to{top:60%}
+}
+@-webkit-keyframes f4-name-change /* Safari 与 Chrome */
+{
+  from {top: 62%;}
+  to {top:44%;}
+}
+@-webkit-keyframes f4-more-btn-change /* Safari 与 Chrome */
+{
+  from {bottom: -10%;}
+  to {bottom:10%;}
+}
+@-webkit-keyframes collection-item-change /* Safari 与 Chrome */
+{
+  from {height: 40px;}
+  to {height: 100%;}
+}
+
+@-webkit-keyframes open-btn-hover-change /* Safari 与 Chrome */
+{
+  0%{
+    top:0px;
+    color:#fff;
+  }
+  50%{
+    top:-12px;
+    color:#5cb4fc;
+  }
+  100%{
+    top:12px;
+    color: #5cb3f2;
+  }
+}
+@-webkit-keyframes open-btn-change /* Safari 与 Chrome */
+{
+  0%{
+    color:#fff;
+  }
+  50%{
+    color:#5cb4fc;
+  }
+  100%{
+    color: #5cb3f2;
+  }
+}
+@-webkit-keyframes open-btn-border-change /* Safari 与 Chrome */
+{
+  0%{
+    border-top: 2px solid #fff;
+  }
+  33%{
+    border-right: 2px solid #fff;
+  }
+  66%{
+    border-bottom: 2px solid #fff;
+  }
+  100%{
+    border-left: 2px solid #fff;
+  }
+}
